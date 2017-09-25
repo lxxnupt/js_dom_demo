@@ -30,4 +30,4 @@ function displayAbbreviations(){
 	document.body.appendChild(header);
 	document.body.appendChild(dlist);
 }
-window.onload = displayAbbreviations;
+addLoadEvent(displayAbbreviations);  
