@@ -1,5 +1,4 @@
 function displayCitations(){
-	debugger;
 	//取得所有引用
 	var quotes = document.getElementsByTagName("blockquote");
 	for(var i=0;i<quotes.length;i++){
