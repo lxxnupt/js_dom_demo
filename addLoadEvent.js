@@ -9,4 +9,3 @@ function addLoadEvent(func){
 		}
 	}
 }
-//test commit 20180722
